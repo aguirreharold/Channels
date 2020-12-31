@@ -1,8 +1,8 @@
 ?#EXTM3U
 #EXTINF:-1,WIN SPORTS PLUS SD (1)
 http://moontools.me:8080/ricardocanales/3fXjbx76t8/1131114
-#EXTINF:-1,WINSPORTS + PLUS SD
- (2) http://moontools.me:8080/ricardocanales/3fXjbx76t8/1131113
+#EXTINF:-1,WINSPORTS + PLUS SD (2) 
+http://moontools.me:8080/ricardocanales/3fXjbx76t8/1131113
 #EXTINF:-1,CALI TV
 http://moontools.me:8080/ricardocanales/3fXjbx76t8/1125098
 #EXTINF:-1,CARACOL (1)
@@ -15,12 +15,10 @@ http://moontools.me:8080/ricardocanales/3fXjbx76t8/1133407
 http://moontools.me:8080/ricardocanales/3fXjbx76t8/1133408
 #EXTINF:-1,Caracol Internacional (5)
 http://moontools.me:8080/ricardocanales/3fXjbx76t8/1133409
-#EXTINF:-1,CITY TV
- 1 http://moontools.me:8080/ricardocanales/3fXjbx76t8/1125094
+#EXTINF:-1,CITY TV 1 
+http://moontools.me:8080/ricardocanales/3fXjbx76t8/1125094
 #EXTINF:-1,City Tv 2
 http://moontools.me:8080/ricardocanales/3fXjbx76t8/1133410
-#EXTINF:-1,COLOMBIA
-http://moontools.me:8080/ricardocanales/3fXjbx76t8/1125072
 #EXTINF:-1,Cosmovision
 http://moontools.me:8080/ricardocanales/3fXjbx76t8/1133411
 #EXTINF:-1,DIRECTV SPORTS 1
@@ -33,27 +31,20 @@ http://moontools.me:8080/ricardocanales/3fXjbx76t8/1133428
 http://moontools.me:8080/ricardocanales/3fXjbx76t8/1133412
 #EXTINF:-1,La Kalle HD
 http://moontools.me:8080/ricardocanales/3fXjbx76t8/1133413
-#EXTINF:-1,MUNDO MAS
+#EXTINF:-1,Caracol
 http://moontools.me:8080/ricardocanales/3fXjbx76t8/1125081
-#EXTINF:-1,NTN24 http://moontools.me:8080/ricardocanales/3fXjbx76t8/1133414
 #EXTINF:-1,RANCHENATO
 http://moontools.me:8080/ricardocanales/3fXjbx76t8/1125080
-#EXTINF:-1,RCN http://moontools.me:8080/ricardocanales/3fXjbx76t8/1125092
+#EXTINF:-1,RCN HD 
+http://moontools.me:8080/ricardocanales/3fXjbx76t8/1125092
 #EXTINF:-1,RCN FHD
 http://moontools.me:8080/ricardocanales/3fXjbx76t8/1133415
 #EXTINF:-1,RCN HD
 http://moontools.me:8080/ricardocanales/3fXjbx76t8/1133424
 #EXTINF:-1,RCN HD2
 http://moontools.me:8080/ricardocanales/3fXjbx76t8/1133416
-#EXTINF:-1,RCN SD
-http://moontools.me:8080/ricardocanales/3fXjbx76t8/1133425
-#EXTINF:-1,Senal Colombia
-http://moontools.me:8080/ricardocanales/3fXjbx76t8/1133417
-#EXTINF:-1,SURAM TV http://moontools.me:8080/ricardocanales/3fXjbx76t8/1125078
-#EXTINF:-1,Tacho Pistacho
-http://moontools.me:8080/ricardocanales/3fXjbx76t8/1133418
-#EXTINF:-1,TELE ANTIOQUIA
-http://moontools.me:8080/ricardocanales/3fXjbx76t8/1125077
+#EXTINF:-1,SURAM TV 
+http://moontools.me:8080/ricardocanales/3fXjbx76t8/1125078
 #EXTINF:-1,TELE CAFE
 http://moontools.me:8080/ricardocanales/3fXjbx76t8/1125076
 #EXTINF:-1,TELE ENVIGADO
@@ -76,20 +67,21 @@ http://moontools.me:8080/ricardocanales/3fXjbx76t8/1133419
 http://moontools.me:8080/ricardocanales/3fXjbx76t8/1125087
 #EXTINF:-1,Telepacifico (2)
 http://moontools.me:8080/ricardocanales/3fXjbx76t8/1133420
-#EXTINF:-1,Televid http://moontools.me:8080/ricardocanales/3fXjbx76t8/1133423
+#EXTINF:-1,Televid 
+http://moontools.me:8080/ricardocanales/3fXjbx76t8/1133423
 #EXTINF:-1,TLC
 http://moontools.me:8080/ricardocanales/3fXjbx76t8/1125102
 #EXTINF:-1,TRECE
 http://moontools.me:8080/ricardocanales/3fXjbx76t8/1125086
 #EXTINF:-1,TV AGRO
 http://moontools.me:8080/ricardocanales/3fXjbx76t8/1125085
-#EXTINF:-1,Win Sports Colombia
+#EXTINF:-1,Win Sports (01)
 http://moontools.me:8080/ricardocanales/3fXjbx76t8/1125101
-#EXTINF:-1,Win Sports Colombia (2)
+#EXTINF:-1,Win Sports+ (02)
 http://moontools.me:8080/ricardocanales/3fXjbx76t8/1133401
-#EXTINF:-1,WinSports
+#EXTINF:-1,WinSports (02)
 http://moontools.me:8080/ricardocanales/3fXjbx76t8/1133429
-#EXTINF:-1,WinSports Plus (2)
+#EXTINF:-1,Win Sports+ (03)
 http://moontools.me:8080/ricardocanales/3fXjbx76t8/1133430
 #EXTINF:-1,Cablenoticias
 http://moontools.me:8080/ricardocanales/3fXjbx76t8/18928
@@ -103,8 +95,6 @@ http://moontools.me:8080/ricardocanales/3fXjbx76t8/70391
 http://moontools.me:8080/ricardocanales/3fXjbx76t8/30305
 #EXTINF:-1,CITY TV
 http://moontools.me:8080/ricardocanales/3fXjbx76t8/14199
-#EXTINF:-1,Cosmovision
-http://moontools.me:8080/ricardocanales/3fXjbx76t8/70510
 #EXTINF:-1,NTN24
 http://moontools.me:8080/ricardocanales/3fXjbx76t8/70595
 #EXTINF:-1,SENAL COLOMBIA HD 
@@ -125,8 +115,6 @@ http://moontools.me:8080/ricardocanales/3fXjbx76t8/70368
 http://moontools.me:8080/ricardocanales/3fXjbx76t8/70706
 #EXTINF:-1,Zoom TV
 http://moontools.me:8080/ricardocanales/3fXjbx76t8/70591
-#EXTINF:-1,****COLOMBIA****
-http://moontools.me:8080/ricardocanales/3fXjbx76t8/14209
 #EXTINF:-1,AMORDISCOS  TV
 http://moontools.me:8080/ricardocanales/3fXjbx76t8/1125100
 #EXTINF:-1,CABLE NOTICIAS
