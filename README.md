@@ -1,2 +1,1 @@
-# pyro
-m3u
+Canales
